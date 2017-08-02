@@ -1,4 +1,5 @@
 
+
 /* GLOBAL STYLES
 ======================== */
 *, *:before, *:after {
@@ -131,6 +132,14 @@ a:visited {
   position: relative;
   display: block;
   height: 400px;
+}
+
+#kathleen-connell-cover {
+    background-image: url("http://imgur.com/D5SI1mH.jpg");
+}
+
+#kathleen-connell-card {
+    background-image: url("http://imgur.com/8SWV2KG.jpg");
 }
 #aly-alidina-cover {
     background-image: url("http://imgur.com/ucFtuBt.jpg");
@@ -486,7 +495,7 @@ a:visited {
 #emily-sugano-cover {
     background-image: url("http://i.imgur.com/HYFTqwa.jpg");
 }
- 
+
 #emily-sugano-card {
     background-image: url("http://i.imgur.com/QZl4wU0.jpg");
 }
@@ -5016,7 +5025,7 @@ a:visited {
 #julia-thompson-cover {
     background-image: url("http://i.imgur.com/95AcWIm.jpg");
   }
- 
+
 #julia-thompson-card {
     background-image: url("http://i.imgur.com/wIKLtDr.jpg");
 }
